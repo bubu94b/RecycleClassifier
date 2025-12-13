@@ -1,0 +1,6 @@
+#Virtual Env
+.venv/
+#Modele file
+models/*.pth
+#data
+data/
